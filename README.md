@@ -35,3 +35,30 @@ File Handling: Implemented to store menu data, order history, and generate repor
 
 # Output:
 
+![1-2](https://github.com/Apurva-Dumbare/restaurant-billing-system/assets/138021715/e75e15a5-f4e0-4b9d-acb1-13e07f02d2e9)
+
+
+![3-4](https://github.com/Apurva-Dumbare/restaurant-billing-system/assets/138021715/0d5b2d21-21a6-496c-80c1-1abebe4c01d6)
+
+![5 1](https://github.com/Apurva-Dumbare/restaurant-billing-system/assets/138021715/f5a007c2-42a0-431f-b8fe-770675d2b8db)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
