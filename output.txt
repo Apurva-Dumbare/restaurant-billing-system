@@ -1,0 +1,251 @@
+	============AGATYA. RESTAURANT============
+
+Please select your prefered operation
+
+1.Generate Invoice
+2.Show all Invoices
+3.Search Invoice
+4.Exit
+
+Your choice:	
+1
+[H[J
+Please enter the name of the customer:	
+Apurva
+
+Please enter the number of items:	
+2
+
+
+Please enter the item 1:	
+poha
+Please enter the quantity:	
+1
+Please enter the unit price:	
+30
+
+
+Please enter the item 2:	
+tea
+Please enter the quantity:	
+1
+Please enter the unit price:	
+10
+
+
+	    AGATYA. Restaurant
+	   -----------------------
+Date:Jun 30 2023
+Invoice To: Apurva
+---------------------------------------
+Items		Qty		Total		
+---------------------------------------
+
+poha		1		30.00		
+tea		1		10.00		
+
+---------------------------------------
+Sub Total			40.00
+Discount @10%			4.00
+				-------
+Net Total			36.00
+CGST @9%			3.24
+SGST @9%			3.24
+---------------------------------------
+Grand Total			42.48
+---------------------------------------
+
+Do you want to save the invoice [y/n]:	
+y
+
+Successfully saved
+Do you want to perform another operation?[y/n]:	
+y
+	============AGATYA. RESTAURANT============
+
+Please select your prefered operation
+
+1.Generate Invoice
+2.Show all Invoices
+3.Search Invoice
+4.Exit
+
+Your choice:	
+1
+[H[J
+Please enter the name of the customer:	
+Aniket
+
+Please enter the number of items:	
+2
+
+
+Please enter the item 1:	
+pizza
+Please enter the quantity:	
+1
+Please enter the unit price:	
+150
+
+
+Please enter the item 2:	
+coffee
+Please enter the quantity:	
+1
+Please enter the unit price:	
+50
+
+
+	    AGATYA. Restaurant
+	   -----------------------
+Date:Jun 30 2023
+Invoice To: Aniket
+---------------------------------------
+Items		   Qty		 Total		
+---------------------------------------
+
+pizza		    1	 	  150.00		
+coffee		  1	  	50.00		
+
+---------------------------------------
+Sub Total			    200.00
+Discount @10%	  	20.00
+				-------
+Net Total			    180.00
+CGST @9%		     	16.20
+SGST @9%		    	16.20
+---------------------------------------
+Grand Total		  	212.40
+---------------------------------------
+
+Do you want to save the invoice [y/n]:	
+y
+
+Successfully saved
+Do you want to perform another operation?[y/n]:	
+y
+============AGATYA. RESTAURANT============
+
+Please select your prefered operation
+
+1.Generate Invoice
+2.Show all Invoices
+3.Search Invoice
+4.Exit
+
+Your choice:	
+2
+
+  *****Your Previous Invoices*****
+
+
+	    AGATYA. Restaurant
+	   -----------------------
+Date:Jun 30 2023
+Invoice To: Apurva
+---------------------------------------
+Items	  	Qty		   Total		
+---------------------------------------
+
+poha		  1	  	  30.00		
+tea		    1	  	  10.00		
+
+---------------------------------------
+Sub Total		    	40.00
+Discount @10%			4.00
+				-------
+Net Total		    	36.00
+CGST @9%	    		3.24
+SGST @9%	    		3.24
+---------------------------------------
+Grand Total		  	42.48
+---------------------------------------
+
+
+	    AGATYA. Restaurant
+	   -----------------------
+Date:Jun 30 2023
+Invoice To: Aniket
+---------------------------------------
+Items	    	Qty		    Total		
+---------------------------------------
+
+pizza	    	1		    150.00		
+coffee	   	1		    50.00		
+
+---------------------------------------
+Sub Total			      200.00
+Discount @10%			  20.00
+				-------
+Net Total			      180.00
+CGST @9%			      16.20
+SGST @9%			      16.20
+---------------------------------------
+Grand Total		    	212.40
+---------------------------------------
+
+Do you want to perform another operation?[y/n]:	
+y
+	============AGATYA. RESTAURANT============
+
+Please select your prefered operation
+
+1.Generate Invoice
+2.Show all Invoices
+3.Search Invoice
+4.Exit
+
+Your choice:	
+3
+Enter the name of the customer:	
+xyz
+	*****Invoice of aniket*****Sorry the invoice for aniket doesnot exists
+Do you want to perform another operation?[y/n]:	
+y
+============AGATYA. RESTAURANT============
+
+Please select your prefered operation
+
+1.Generate Invoice
+2.Show all Invoices
+3.Search Invoice
+4.Exit
+
+Your choice:	
+3
+Enter the name of the customer:	
+Aniket
+*****Invoice of Aniket*****
+
+	    AGATYA. Restaurant
+	   -----------------------
+Date:Jun 30 2023
+Invoice To: Aniket
+---------------------------------------
+Items	  	Qty	  	 Total		
+---------------------------------------
+
+pizza		  1		    150.00		
+coffee		1		    50.00		
+
+---------------------------------------
+Sub Total		    	200.00
+Discount @10%			20.00
+				-------
+Net Total			    180.00
+CGST @9%		    	16.20
+SGST @9%		    	16.20
+---------------------------------------
+Grand Total		  	212.40
+---------------------------------------
+
+Do you want to perform another operation?[y/n]:	
+n
+
+ 		 visit Again!!!
+
+
+
+
+
+** Process exited - Return Code: 0 **
